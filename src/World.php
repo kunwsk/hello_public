@@ -14,4 +14,8 @@ class World
     {
         return $msg . '_success';
     }
+    public static function autoUpdate()
+    {
+        return 'auto update success';
+    }
 }

@@ -1,0 +1,20 @@
+{
+    "name": "hkx/hello_public",
+    "description": "developer public",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "kun_wsk",
+            "email": "kunwsk@gmail.com"
+        }
+    ],
+    "require": {
+        "php": "^7.2"
+    },
+    "autoload": {
+        "psr-4": {
+            "Meteor\\HelloPublic\\": "src"
+        }
+    }
+}

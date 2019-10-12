@@ -6,7 +6,7 @@
  * Time: 10:52 AM
  */
 
-namespace Meteor\HelloPublic;
+namespace MeteorSkill\HelloPublic;
 
 class World
 {
